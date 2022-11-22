@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lesson4/SpringBootExceptionHandler.iml" filepath="$PROJECT_DIR$/lesson4/SpringBootExceptionHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootExercise.iml" filepath="$PROJECT_DIR$/SpringBootExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootValidation/SpringBootValidation.iml" filepath="$PROJECT_DIR$/SpringBootValidation/SpringBootValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3/injectiontypes.iml" filepath="$PROJECT_DIR$/lesson3/injectiontypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1/lesson.iml" filepath="$PROJECT_DIR$/lesson1/lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2/lesson2.iml" filepath="$PROJECT_DIR$/lesson2/lesson2.iml" />
+    </modules>
+  </component>
+</project>
